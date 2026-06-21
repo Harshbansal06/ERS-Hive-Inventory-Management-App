@@ -5,7 +5,7 @@ function NotificationComponent({ title, description, time, type }) {
     <div className="bg-[#0b0a0d] border-l-4 border-y border-r border-[#facc15] rounded-md top-30 p-4 flex items-start space-x-3 w-full max-w-[750px] shadow-lg">
       <div className="bg-[#facc15]/10 p-2.5 rounded-lg flex items-center justify-center shrink-0 mt-0.5">
         <svg 
-          className="text-[#ea580c]"
+          className="text-[#facc15]"
           xmlns="http://www.w3.org/2000/svg" 
           width="16" 
           height="16" 
